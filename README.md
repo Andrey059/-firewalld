@@ -33,4 +33,6 @@ Are you sure you want to continue connecting (yes/no)? yes
 
 Пароль: vagrant
 
+В браузере проверить доступность ``` http://192.168.11.171:8080/ ```
 
+С centralRouter нужно выполнить ``` traceroute ya.ru ```
